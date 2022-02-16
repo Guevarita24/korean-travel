@@ -4,4 +4,4 @@ El objetivo de este proyecto es conocer un poco la cultura de Corea del Sur, as√
 
 ## Proyecto
 
-- [Landing Page de Korean Travel](https://Guevarita24.github.io/korean-travel/koreantravel)
+- [Landing Page de Korean Travel](https://guevarita24.github.io/korean-travel/koreantravel)
