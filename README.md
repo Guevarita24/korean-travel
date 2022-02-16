@@ -1,7 +1,7 @@
 # Korean Travel
 
-El objetivo de este proyecto es conocer un poco la cultura de Corea del Sur en el cual se incluye la gastronomía, hoteles y el turismo.
+El objetivo de este proyecto es conocer un poco la cultura de Corea del Sur, así como lo es la gastronomía, hoteles y el turismo.
 
 ## Proyecto
 
-- [Landing Page de Korean Travel](https://guevarita24.github.io/korean-travel/koreantravel)
+- [Landing Page de Korean Travel](https://Guevarita24.github.io/korean-travel/koreantravel)
