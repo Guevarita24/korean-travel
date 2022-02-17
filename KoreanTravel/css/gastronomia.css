@@ -137,11 +137,14 @@ p {
 .food-1 p {
   font-size: 1.5rem;
   padding: 0 3rem;
+  text-align: justify;
 }
 
 .food-2 p {
+  color: var(--white-color);
   font-size: 1.5rem;
   padding: 0 3rem;
+  text-align: justify;
 }
 
 .header {
@@ -280,8 +283,8 @@ p {
 }
 
 .redes-container svg {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
   fill: var(--white-color);
   transition: all 0.5s ease-in-out;
 }
